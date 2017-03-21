@@ -12,4 +12,4 @@ http://www.yingjheng.com/index.html
 
 A.設定 configuration in cartchen/cart_config.php, cartchen/cart_config_cart.php, cartchen/cart_config.login.php
 
-
+開發時沒有Design Pattern概念, 無實作關注點分離
